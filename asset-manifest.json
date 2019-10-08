@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/RoboPals/static/css/main.f5ebf016.chunk.css",
+    "main.js": "/RoboPals/static/js/main.6b66d002.chunk.js",
+    "main.js.map": "/RoboPals/static/js/main.6b66d002.chunk.js.map",
+    "runtime~main.js": "/RoboPals/static/js/runtime~main.c808dfb2.js",
+    "runtime~main.js.map": "/RoboPals/static/js/runtime~main.c808dfb2.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/RoboPals/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.677b0c05.chunk.js": "/RoboPals/static/js/2.677b0c05.chunk.js",
+    "static/js/2.677b0c05.chunk.js.map": "/RoboPals/static/js/2.677b0c05.chunk.js.map",
+    "index.html": "/RoboPals/index.html",
+    "precache-manifest.4acd4925d68c21e967df1b0a2aec91b9.js": "/RoboPals/precache-manifest.4acd4925d68c21e967df1b0a2aec91b9.js",
+    "service-worker.js": "/RoboPals/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/RoboPals/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.f5ebf016.chunk.css.map": "/RoboPals/static/css/main.f5ebf016.chunk.css.map"
+  }
+}
